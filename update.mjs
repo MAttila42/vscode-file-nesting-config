@@ -212,6 +212,7 @@ const libraries = [
   'formulate.config.*',
   'htmlnanorc.*',
   'i18n.config.*',
+  'jsr.*',
   'ionic.config.*',
   'panda.config.*',
   'postcss.config.*',

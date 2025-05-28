@@ -120,6 +120,7 @@ const linters = [
 
 // @keep-sorted
 const env = [
+  '.dev.vars',
   '.env.*',
   '.envrc',
   '*.env',
@@ -238,8 +239,8 @@ const libraries = [
   'formulate.config.*',
   'htmlnanorc.*',
   'i18n.config.*',
-  'jsr.*',
   'ionic.config.*',
+  'jsr.*',
   'panda.config.*',
   'postcss.config.*',
   'react-router.config.*',

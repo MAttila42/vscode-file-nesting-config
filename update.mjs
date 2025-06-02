@@ -121,6 +121,7 @@ const linters = [
 // @keep-sorted
 const env = [
   '.dev.vars.*',
+  '.dev.vars',
   '.env.*',
   '.envrc',
   '*.env',

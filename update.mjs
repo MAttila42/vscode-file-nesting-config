@@ -242,6 +242,7 @@ const libraries = [
   'i18n.config.*',
   'ionic.config.*',
   'jsr.*',
+  'lin.config.*',
   'panda.config.*',
   'postcss.config.*',
   'react-router.config.*',
